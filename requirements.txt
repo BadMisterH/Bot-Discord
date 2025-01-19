@@ -1,0 +1,5 @@
+botdiscord@1.0.0 C:\Users\Badro\Documents\Programmation\BotDIscord
+├── discord.js@14.17.3
+├── dotenv@16.4.7
+└── openai@4.79.1
+
